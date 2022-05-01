@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script src="https://cdn.jsdelivr.net/npm/vega@5.22.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.2.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.20.8"></script>
+  <script src="https://d3js.org/d3.v5.min.js"></script> 
+</head>
+<body>
+    <div id="vis1"/>
+  <script>
+    var dataset = "car-us.json"
+    const spec = {
+      "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+      "description": "A scatterplot showing horsepower and miles per gallons for various cars.",
+      // "data": {"url": "https://vega.github.io/vega-datasets/data/cars.json"},
+      "data": {"url": "http://127.0.0.1:5500/"+dataset},
+      "mark": "point",
+      "encoding": {
+        "x": {"field": "Horsepower", "type": "quantitative"},
+        "y": {"field": "Weight", "type": "quantitative"},
+        "color": {"field":"Selected", "type":"nominal"},
+        "shape": {"field":"Selected", "type":"nominal"}
+      },
+      "config": {}
+    };
+    vegaEmbed("#vis1", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+  </script>
+</body>
+</html>
