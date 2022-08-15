@@ -1,0 +1,58 @@
+Model,MPG,Cylinders,Displacement,Horsepower,Weight,Acceleration,Year,Origin,Selected
+volkswagen 1131 deluxe sedan,26.0,4,97,46,1835,20.5,1970,Europe,0
+volkswagen super beetle,26.0,4,97,46,1950,21.0,1973,Europe,0
+volkswagen rabbit custom diesel,43.1,4,90,48,1985,21.5,1978,Europe,0
+vw rabbit c (diesel),44.3,4,90,48,2085,21.7,1980,Europe,0
+vw dasher (diesel),43.4,4,90,48,2335,23.7,1980,Europe,0
+fiat 128,29.0,4,68,49,1867,19.5,1973,Europe,0
+vw pickup,44.0,4,97,52,2130,24.6,1982,Europe,0
+volkswagen type 3,23.0,4,97,54,2254,23.5,1972,Europe,0
+renault 5 gtl,36.0,4,79,58,1825,18.6,1977,Europe,0
+volkswagen model 111,27.0,4,97,60,1834,19.0,1971,Europe,0
+vokswagen rabbit,29.8,4,89,62,1845,15.3,1980,Europe,0
+volkswagen dasher,26.0,4,79,67,1963,15.5,1974,Europe,0
+fiat x1.9,31.0,4,79,67,2000,16.0,1974,Europe,0
+audi 5000s (diesel),36.4,5,121,67,2950,19.9,1980,Europe,1
+mercedes-benz 240d,30.0,4,146,67,3250,21.8,1980,Europe,1
+renault 12 (sw),26.0,4,96,69,2189,18.0,1972,Europe,0
+fiat strada custom,37.3,4,91,69,2130,14.7,1979,Europe,0
+peugeot 304,30.0,4,79,70,2074,19.5,1971,Europe,0
+volkswagen rabbit,29.0,4,90,70,1937,14.0,1975,Europe,0
+vw rabbit,29.0,4,90,70,1937,14.2,1976,Europe,0
+volkswagen scirocco,31.5,4,89,71,1990,14.9,1978,Europe,0
+vw rabbit custom,31.9,4,89,71,1925,14.0,1979,Europe,0
+peugeot 504,27.2,4,141,71,3190,24.8,1979,Europe,1
+volkswagen jetta,33.0,4,105,74,2190,14.2,1981,Europe,0
+volkswagen rabbit l,36.0,4,105,74,1980,15.3,1982,Europe,0
+opel manta,24.0,4,116,75,2158,15.5,1973,Europe,0
+fiat 124 tc,26.0,4,116,75,2246,14.0,1974,Europe,0
+fiat 124b,30.0,4,88,76,2065,14.5,1971,Europe,0
+volkswagen 411 (sw),22.0,4,121,76,2511,18.0,1972,Europe,0
+volvo diesel,30.7,6,145,76,3160,19.6,1981,Europe,1
+mercedes benz 300d,25.4,5,183,77,3530,20.1,1979,Europe,1
+volkswagen rabbit custom,29.0,4,97,78,1940,14.5,1977,Europe,0
+audi 4000,34.3,4,97,78,2188,15.8,1980,Europe,0
+peugeot 505s turbo diesel,28.1,4,141,80,3230,20.4,1981,Europe,1
+opel 1900,25.0,4,116,81,2220,16.9,1976,Europe,0
+audi fox,29.0,4,98,83,2219,16.5,1974,Europe,0
+renault 12tl,27.0,4,101,83,2202,15.3,1976,Europe,0
+fiat 131,28.0,4,107,86,2464,15.5,1976,Europe,0
+peugeot 504 (sw),21.0,4,120,87,2979,19.5,1972,Europe,1
+triumph tr7 coupe,35.0,4,122,88,2500,15.1,1980,Europe,0
+audi 100 ls,24.0,4,107,90,2430,14.5,1970,Europe,0
+fiat 124 sport coupe,26.0,4,98,90,2265,15.5,1973,Europe,0
+audi 100ls,20.0,4,114,91,2582,14.0,1973,Europe,0
+saab 99e,25.0,4,104,95,2375,17.5,1970,Europe,0
+volvo 244dl,22.0,4,121,98,2945,14.5,1975,Europe,1
+volvo 245,20.0,4,130,102,3150,15.7,1976,Europe,1
+audi 5000,20.3,5,131,103,2830,15.9,1978,Europe,1
+saab 99le,24.0,4,121,110,2660,14.0,1973,Europe,0
+bmw 320i,21.5,4,121,110,2600,12.8,1977,Europe,0
+volvo 145e (sw),18.0,4,121,112,2933,14.5,1972,Europe,1
+volvo 144ea,19.0,4,121,112,2868,15.5,1973,Europe,1
+bmw 2002,26.0,4,121,113,2234,12.5,1970,Europe,0
+saab 99gle,21.6,4,121,115,2795,15.7,1978,Europe,0
+mercedes-benz 280s,16.5,6,168,120,3820,16.7,1976,Europe,1
+volvo 264gl,17.0,6,163,125,3140,13.6,1978,Europe,1
+peugeot 604sl,16.2,6,163,133,3410,15.8,1978,Europe,1
+renault 18i,34.5,4,100,0,2320,15.8,1981,Europe,0
