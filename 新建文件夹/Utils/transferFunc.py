@@ -81,7 +81,7 @@ class TCA:
         clf.fit(Xs_new, Ys.ravel())
         y_pred = clf.predict(Xt_new)
         acc = sklearn.metrics.accuracy_score(Yt, y_pred)
-        return acc, y_pred, Xs_new, Xt_new
+        return acc, y_pred
 
 class BDA:
     def __init__(self, kernel_type='primal', dim=30, lamb=1, mu=0.5, gamma=1, T=10, mode='BDA', estimate_mu=False):
